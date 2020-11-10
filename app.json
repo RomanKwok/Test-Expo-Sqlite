@@ -1,7 +1,6 @@
 {
   "expo": {
-    "name": "happy-cereal",
-    "slug": "snack-478c5184-334e-4998-bc07-000053880b37",
+    "name": "Test-Expo-Sqlite",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
